@@ -1,0 +1,23 @@
+.fucked{
+    height: 300;
+    width: 600;
+}
+
+.greds{
+    font-size: 80px;
+    background-color: blueviolet;
+    color: aquamarine;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#readable{
+    background-color: grey;
+    color: grey;
+}
+
+#scream{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
