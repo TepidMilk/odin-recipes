@@ -16,8 +16,15 @@
     color: grey;
 }
 
+.mouth{
+    color: red;
+    background-color: black;
+    font-size: 20px;
+}
+
 #scream{
     font-size: larger;
     font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
